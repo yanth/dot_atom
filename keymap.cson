@@ -32,3 +32,7 @@
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
 '.editor':
   'ctrl-c ctrl-c': 'script:run'
+  'ctrl-shift-s': 'project-find:show'
+
+'.body':
+  'ctrl-shift-s': 'unset!'
